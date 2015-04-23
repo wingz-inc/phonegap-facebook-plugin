@@ -18,6 +18,7 @@
 
     <preference name="APP_ID" />
     <preference name="APP_NAME" />
+    <preference name="CUSTOME_SCHEME" />
 
     <engines>
         <!-- Requires > 3.3.* because of the custom Framework tag for iOS [CB-5238] -->
@@ -96,6 +97,7 @@
               <key>CFBundleURLSchemes</key>
               <array>
                 <string>fb$APP_ID</string>
+                <string>$CUSTOM_SCHEME</string>
               </array>
             </dict>
           </array>
