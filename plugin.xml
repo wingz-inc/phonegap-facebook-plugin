@@ -18,7 +18,7 @@
 
     <preference name="APP_ID" />
     <preference name="APP_NAME" />
-    <preference name="CUSTOME_SCHEME" />
+    <preference name="CUSTOM_SCHEME" />
 
     <engines>
         <!-- Requires > 3.3.* because of the custom Framework tag for iOS [CB-5238] -->
